@@ -1,0 +1,7 @@
+Gender,Age,Occupation,Stress_Level,BMI_Category,Blood_Pressure,Heart_Rate,Daily_Steps,Physical_Activity_Level,Sleep_Duration,Sleep_Quality
+Male,23,Student,3,Normal,120/80,70,6000,Low,6,Poor
+Female,35,Doctor,4,Overweight,130/85,75,5000,Moderate,5,Poor
+Male,29,Engineer,2,Normal,110/75,68,8000,High,8,Good
+Female,40,Teacher,5,Obese,140/90,80,3000,Low,4,Poor
+Male,31,Artist,1,Normal,115/78,65,10000,High,9,Good
+Female,27,Student,3,Normal,125/80,72,7000,Moderate,7,Average
